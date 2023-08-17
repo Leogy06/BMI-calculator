@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-
+ I also use Bootstrap for styling and for responsive design
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
