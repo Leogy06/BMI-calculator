@@ -1,0 +1,11 @@
+/* styles for Calculator*/
+
+.container-calculator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bmi {
+  text-decoration: underline;
+  text-underline-offset: 10px;
+}

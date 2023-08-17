@@ -1,0 +1,5 @@
+use useState to get current and set data
+use useMemo to boot fast the formula when creating whenever we have the same output so that it wont repeat again
+
+formula for bmi is cm / height * height /100
+toFixed for decimal management
